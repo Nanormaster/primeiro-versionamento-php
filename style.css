@@ -1,0 +1,31 @@
+h1{
+
+ color: rgb(12, 8, 8);
+ text-decoration: underline;
+ font-size: 50px;   
+}
+body{
+    background-color: rgb(62, 62, 146);
+    text-align: center;
+}
+
+p{
+
+    font-family: arial; 
+}
+
+img{
+    width: 400px;
+}
+
+
+li{
+    
+    font-size: 20px ;
+}
+
+ul,ol{
+    border: 1px solid black;
+    width: fit-content;
+    margin: 0 auto;
+}
